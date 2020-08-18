@@ -39,6 +39,7 @@ Result should be
 ## Delete
 ```
 get(a, 3) -> [{b,[[{i,1},c,{c,3}],[{i,2},c,{c,3}]]},c].
+
 {ok, a, Result} = delete("a.b[i=1].c", {?MODULE, get, [3]}).
 ```
 Result should be
