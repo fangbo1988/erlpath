@@ -1,0 +1,13 @@
+{application, erlpath, [
+    {description, "An Erlang Path parser"},
+    {id, "erlpath"},
+    {vsn, "git"},
+    {applications, [kernel, stdlib]},
+    {modules, []},
+    {registered, []},
+    {env, []},
+    {mod, {erlpath_app, []}},
+    {licenses, ["Apache 2.0"]},
+    {links, [{"Github", "https://github.com/fangbo1988/erlpath"}]},
+    {exclude_files, ["src/erlpath_parser.erl", "src/erlpath_lexer.erl"]}
+]}.
