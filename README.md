@@ -1,6 +1,7 @@
 # erlpath - An Erlang Path parser
 
 [![Build Status](https://travis-ci.org/fangbo1988/erlpath.svg?branch=master)](https://travis-ci.org/fangbo1988/erlpath)
+![CI](https://github.com/fangbo1988/erlpath/workflows/CI/badge.svg)
 
 # Example
 See test suite for more details.
