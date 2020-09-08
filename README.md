@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/fangbo1988/erlpath.svg?branch=master)](https://travis-ci.org/fangbo1988/erlpath)
 ![CI](https://github.com/fangbo1988/erlpath/workflows/CI/badge.svg?branch=master)
 
-An erlang path parser, do lookup/update/delete on a erlang list.
+An erlang path parser, do lookup/update/delete on an erlang list.
 
 # Example
 See test suite for more details.
